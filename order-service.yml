@@ -1,0 +1,4 @@
+user:
+  discountFactor: 2
+server:
+port: 7070
