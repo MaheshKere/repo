@@ -1,0 +1,5 @@
+
+user:
+  ageLimit: 25
+server:
+port: 4040
